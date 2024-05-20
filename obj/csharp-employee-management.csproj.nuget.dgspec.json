@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj": {}
+    "C:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj": {}
   },
   "projects": {
-    "c:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj": {
+    "C:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj",
+        "projectUniqueName": "C:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj",
         "projectName": "csharp-employee-management",
-        "projectPath": "c:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj",
+        "projectPath": "C:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\csharp-employee-management.csproj",
         "packagesPath": "C:\\Users\\tman\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\obj\\",
+        "outputPath": "C:\\Users\\tman\\Code Projects\\CSE310 - Applied Programming\\csharp-employee-management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tman\\AppData\\Roaming\\NuGet\\NuGet.Config",
