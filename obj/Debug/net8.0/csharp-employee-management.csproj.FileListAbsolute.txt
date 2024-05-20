@@ -1,0 +1,15 @@
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\bin\Debug\net8.0\csharp-employee-management.exe
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\bin\Debug\net8.0\csharp-employee-management.deps.json
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\bin\Debug\net8.0\csharp-employee-management.runtimeconfig.json
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\bin\Debug\net8.0\csharp-employee-management.dll
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\bin\Debug\net8.0\csharp-employee-management.pdb
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.AssemblyInfoInputs.cache
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.AssemblyInfo.cs
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.csproj.CoreCompileInputs.cache
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.sourcelink.json
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.dll
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\refint\csharp-employee-management.dll
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.pdb
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\csharp-employee-management.genruntimeconfig.cache
+c:\Users\tman\Code Projects\CSE310 - Applied Programming\csharp-employee-management\obj\Debug\net8.0\ref\csharp-employee-management.dll
