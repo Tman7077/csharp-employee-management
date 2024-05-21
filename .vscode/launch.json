@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Employee Management",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-employee-management",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/csharp-employee-management.dll",
+            "cwd": "${workspaceFolder}",
+        }
+    ]
+}
