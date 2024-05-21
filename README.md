@@ -1,32 +1,23 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple program, with a few classes, to demonstrate the basics of the C# language.
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
+It is intended to be a basic piece of software that a company manager might use to manage their employee information. This includes adding new employees, editing current ones, and removing ones that have left. Employee IDs are auto-incremented, and information can be displayed for easier editing.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=lXJsomBy2g8)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used VS code with the C# extension to code this.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp)
+- [Stack Overflow](https://stackoverflow.com/)
+- [ChatGPT](https://chatgpt.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- The program does not handle certain formatting things, such as checking for valid filenames or correcting the formatting of a phone number.
+- Employee information can literally be anything— every value could be "bob" and the program would be fine with it.
+- Some messages of confirmation or success 0=would be nice, currently it just does the thing and continues on as if nothing happened.
