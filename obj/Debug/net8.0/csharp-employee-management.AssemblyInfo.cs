@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-employee-management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0826ce6151e0393176f968cf91f9831dee3312")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf731f596e6a3c8b5bf4ebebaead84d1ce1e2668")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-employee-management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-employee-management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
